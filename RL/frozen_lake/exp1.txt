@@ -1,0 +1,53 @@
+ssh://xs@10.214.211.206:22/disk3/xs/anaconda3/envs/al/bin/python -u /nfs/xs/codes/pytorch-examples/RL/frozen_lake/main.py
+
+Timestep 0
+action: 1, observation: 1, reward: 0.0
+  (Down)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Timestep 1
+action: 3, observation: 2, reward: 0.0
+  (Up)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Timestep 2
+action: 3, observation: 3, reward: 0.0
+  (Up)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Timestep 3
+action: 2, observation: 3, reward: 0.0
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Timestep 4
+action: 2, observation: 3, reward: 0.0
+  (Right)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Timestep 5
+action: 0, observation: 7, reward: 0.0
+  (Left)
+SFFF
+FHFH
+FFFH
+HFFG
+
+Episode terminated early
+
+Process finished with exit code 0
